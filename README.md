@@ -12,3 +12,5 @@ backgrnd.jpg - game background
 the game components other then the player or background
 are stored in the gmecode.js file first add the components to initialize
 on startup of the game then all the rest of the code goes on the bottom
+
+Notice : Both of the creators accounts are inactive, this repository will not get new updates.
